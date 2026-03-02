@@ -29,3 +29,8 @@ Language: Python
    - Pattern: GCD + Square Root Optimization
    - Time: O(√n)
    - Space: O(1)
+
+3. Construct the Rectangle (LeetCode 492)
+   - Pattern: Factors + Square Root Optimization
+   - Time: O(√n)
+   - Space: O(1)
