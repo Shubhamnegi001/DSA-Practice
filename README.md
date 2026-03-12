@@ -1,36 +1,62 @@
-# DSA Practice - Python
+# Data Structures and Algorithms (Python)
 
-This repository contains solutions to DSA problems solved in Python.
+This repository contains my practice solutions for **Data Structures and Algorithms (DSA)** problems using **Python**.
+I regularly solve problems from platforms like **LeetCode** to improve my problem-solving ability, strengthen core computer science concepts, and prepare for technical interviews.
+
+---
 
 ## Problems Solved
 
-- Armstrong Number
-- Palindrome Number
-- Kth Factor of N (Optimized to O(√n))
-- Two Sum (Optimized to O(n) using HashMap)
+### Recursion
 
-## Concepts Practiced
+* Fibonacci Number
 
-- Time Complexity Analysis
-- Optimization Techniques
-- Hashing (Dictionary)
-- Mathematical Logic
+### Sorting Algorithms
 
-Language: Python
+* Selection Sort
+* Bubble Sort
+* Insertion Sort
+* Merge Sort
 
-## Problems Added
+### Array Problems
 
-1. Ransom Note (LeetCode 383)
-   - Pattern: Hashing / Frequency Array
-   - Time: O(n + m)
-   - Space: O(1)
+* Remove Duplicates from Sorted Array
+* Squares of a Sorted Array
+* Find All Duplicates in an Array
+* Kth Largest Element in an Array
 
-2. Number of Common Factors
-   - Pattern: GCD + Square Root Optimization
-   - Time: O(√n)
-   - Space: O(1)
+### String Problems
 
-3. Construct the Rectangle (LeetCode 492)
-   - Pattern: Factors + Square Root Optimization
-   - Time: O(√n)
-   - Space: O(1)
+* Largest Odd Number in String
+
+---
+
+## Implementations
+
+| Problem                             | Concept              | Language |
+| ----------------------------------- | -------------------- | -------- |
+| Fibonacci Number                    | Recursion            | Python   |
+| Selection Sort                      | Sorting              | Python   |
+| Bubble Sort                         | Sorting              | Python   |
+| Insertion Sort                      | Sorting              | Python   |
+| Merge Sort                          | Sorting              | Python   |
+| Remove Duplicates from Sorted Array | Array                | Python   |
+| Squares of a Sorted Array           | Array / Two Pointers | Python   |
+| Find All Duplicates in an Array     | Array                | Python   |
+| Kth Largest Element in an Array     | Heap / Sorting       | Python   |
+| Largest Odd Number in String        | String               | Python   |
+
+---
+
+## Goals
+
+* Improve problem-solving skills
+* Strengthen Data Structures and Algorithms concepts
+* Practice Python for coding interviews
+* Build a strong problem-solving portfolio on GitHub
+
+---
+
+## Author
+
+Shubham Negi
